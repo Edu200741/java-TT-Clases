@@ -1,12 +1,12 @@
 
 
-package com.mycompany.cuentabancaria;
+package ejerciciosClases;
 
 import java.util.Arrays;
 import java.util.Scanner;
-import logica.Automovil;
-import logica.CuentaBancaria;
-import logica.Estudiante;
+import ejerciciosClases.Automovil;
+import ejerciciosClases.CuentaBancaria;
+import ejerciciosClases.Estudiante;
 
 
 
