@@ -32,6 +32,8 @@ public class Gerente extends Empleado{
         return "Gerente{" + "bonoAnual=" + bonoAnual + '}';
     }
 
+    
+    
   
 
   
